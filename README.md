@@ -17,7 +17,7 @@
 2. Install:
 
    ```
-   $ sudo apt-get update && sudo apt-get install minos-bash-tweaks
+   $ sudo apt-get update && sudo apt-get install minos-bash-settings
    ```
 
 3. Enjoy ☺!
@@ -27,9 +27,9 @@
 If by any reason you dislike these settings you can uninstall by running:
 
    ```
-   $ sudo apt-get remove minos-bash-tweaks
+   $ sudo apt-get remove minos-bash-settings
    ```
 
 ## Feedback
 
-Please drop me an [email](mailto:m@javier.io) with your suggestions or open [an issue](https://github.com/minos-org/minos-bash-tweaks/issues) with your comments.
+Please drop me an [email](mailto:m@javier.io) with your suggestions or open [an issue](https://github.com/minos-org/minos-bash-settings/issues) with your comments.
